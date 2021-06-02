@@ -4,7 +4,7 @@
 
 About Me🚀
 
-### I'm a Student, Developer, and Leaner!
+### I'm a Student, Developer, and Learner!
 - 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology.
 - 🌱 My future goal is to be a MERN developer.
 - 🌱 I’m currently learning Data Structure and Algorithms in Java.
